@@ -1,0 +1,427 @@
+[{
+  "name": "NO",
+  "path": "res/emoji/[NO]@2x.png"
+}, {
+  "name": "OK",
+  "path": "res/emoji/[OK]@2x.png"
+}, {
+  "name": "下雨",
+  "path": "res/emoji/[下雨]@2x.png"
+}, {
+  "name": "么么哒",
+  "path": "res/emoji/[么么哒]@2x.png"
+}, {
+  "name": "乒乓",
+  "path": "res/emoji/[乒乓]@2x.png"
+}, {
+  "name": "便便",
+  "path": "res/emoji/[便便]@2x.png"
+}, {
+  "name": "信封",
+  "path": "res/emoji/[信封]@2x.png"
+}, {
+  "name": "偷笑",
+  "path": "res/emoji/[偷笑]@2x.png"
+}, {
+  "name": "傲慢",
+  "path": "res/emoji/[傲慢]@2x.png"
+}, {
+  "name": "再见",
+  "path": "res/emoji/[再见]@2x.png"
+}, {
+  "name": "冷汗",
+  "path": "res/emoji/[冷汗]@2x.png"
+}, {
+  "name": "凋谢",
+  "path": "res/emoji/[凋谢]@2x.png"
+}, {
+  "name": "刀",
+  "path": "res/emoji/[刀]@2x.png"
+}, {
+  "name": "删除",
+  "path": "res/emoji/[删除]@2x.png"
+}, {
+  "name": "勾引",
+  "path": "res/emoji/[勾引]@2x.png"
+}, {
+  "name": "发呆",
+  "path": "res/emoji/[发呆]@2x.png"
+}, {
+  "name": "发抖",
+  "path": "res/emoji/[发抖]@2x.png"
+}, {
+  "name": "可怜",
+  "path": "res/emoji/[可怜]@2x.png"
+}, {
+  "name": "可爱",
+  "path": "res/emoji/[可爱]@2x.png"
+}, {
+  "name": "右哼哼",
+  "path": "res/emoji/[右哼哼]@2x.png"
+}, {
+  "name": "右太极",
+  "path": "res/emoji/[右太极]@2x.png"
+}, {
+  "name": "右车头",
+  "path": "res/emoji/[右车头]@2x.png"
+}, {
+  "name": "吐",
+  "path": "res/emoji/[吐]@2x.png"
+}, {
+  "name": "吓",
+  "path": "res/emoji/[吓]@2x.png"
+}, {
+  "name": "咒骂",
+  "path": "res/emoji/[咒骂]@2x.png"
+}, {
+  "name": "咖啡",
+  "path": "res/emoji/[咖啡]@2x.png"
+}, {
+  "name": "啤酒",
+  "path": "res/emoji/[啤酒]@2x.png"
+}, {
+  "name": "嘘",
+  "path": "res/emoji/[嘘]@2x.png"
+}, {
+  "name": "回头",
+  "path": "res/emoji/[回头]@2x.png"
+}, {
+  "name": "困",
+  "path": "res/emoji/[困]@2x.png"
+}, {
+  "name": "坏笑",
+  "path": "res/emoji/[坏笑]@2x.png"
+}, {
+  "name": "多云",
+  "path": "res/emoji/[多云]@2x.png"
+}, {
+  "name": "大兵",
+  "path": "res/emoji/[大兵]@2x.png"
+}, {
+  "name": "大哭",
+  "path": "res/emoji/[大哭]@2x.png"
+}, {
+  "name": "太阳",
+  "path": "res/emoji/[太阳]@2x.png"
+}, {
+  "name": "奋斗",
+  "path": "res/emoji/[奋斗]@2x.png"
+}, {
+  "name": "奶瓶",
+  "path": "res/emoji/[奶瓶]@2x.png"
+}, {
+  "name": "委屈",
+  "path": "res/emoji/[委屈]@2x.png"
+}, {
+  "name": "害羞",
+  "path": "res/emoji/[害羞]@2x.png"
+}, {
+  "name": "尴尬",
+  "path": "res/emoji/[尴尬]@2x.png"
+}, {
+  "name": "左哼哼",
+  "path": "res/emoji/[左哼哼]@2x.png"
+}, {
+  "name": "左太极",
+  "path": "res/emoji/[左太极]@2x.png"
+}, {
+  "name": "左车头",
+  "path": "res/emoji/[左车头]@2x.png"
+}, {
+  "name": "差劲",
+  "path": "res/emoji/[差劲]@2x.png"
+}, {
+  "name": "弱",
+  "path": "res/emoji/[弱]@2x.png"
+}, {
+  "name": "强",
+  "path": "res/emoji/[强]@2x.png"
+}, {
+  "name": "彩带",
+  "path": "res/emoji/[彩带]@2x.png"
+}, {
+  "name": "彩球",
+  "path": "res/emoji/[彩球]@2x.png"
+}, {
+  "name": "得意",
+  "path": "res/emoji/[得意]@2x.png"
+}, {
+  "name": "微笑",
+  "path": "res/emoji/[微笑]@2x.png"
+}, {
+  "name": "心碎了",
+  "path": "res/emoji/[心碎了]@2x.png"
+}, {
+  "name": "快哭了",
+  "path": "res/emoji/[快哭了]@2x.png"
+}, {
+  "name": "怄火",
+  "path": "res/emoji/[怄火]@2x.png"
+}, {
+  "name": "怒",
+  "path": "res/emoji/[怒]@2x.png"
+}, {
+  "name": "惊恐",
+  "path": "res/emoji/[惊恐]@2x.png"
+}, {
+  "name": "惊讶",
+  "path": "res/emoji/[惊讶]@2x.png"
+}, {
+  "name": "憨笑",
+  "path": "res/emoji/[憨笑]@2x.png"
+}, {
+  "name": "手枪",
+  "path": "res/emoji/[手枪]@2x.png"
+}, {
+  "name": "打哈欠",
+  "path": "res/emoji/[打哈欠]@2x.png"
+}, {
+  "name": "抓狂",
+  "path": "res/emoji/[抓狂]@2x.png"
+}, {
+  "name": "折磨",
+  "path": "res/emoji/[折磨]@2x.png"
+}, {
+  "name": "抠鼻",
+  "path": "res/emoji/[抠鼻]@2x.png"
+}, {
+  "name": "抱抱",
+  "path": "res/emoji/[抱抱]@2x.png"
+}, {
+  "name": "抱拳",
+  "path": "res/emoji/[抱拳]@2x.png"
+}, {
+  "name": "拳头",
+  "path": "res/emoji/[拳头]@2x.png"
+}, {
+  "name": "挥手",
+  "path": "res/emoji/[挥手]@2x.png"
+}, {
+  "name": "握手",
+  "path": "res/emoji/[握手]@2x.png"
+}, {
+  "name": "撇嘴",
+  "path": "res/emoji/[撇嘴]@2x.png"
+}, {
+  "name": "擦汗",
+  "path": "res/emoji/[擦汗]@2x.png"
+}, {
+  "name": "敲打",
+  "path": "res/emoji/[敲打]@2x.png"
+}, {
+  "name": "晕",
+  "path": "res/emoji/[晕]@2x.png"
+}, {
+  "name": "月亮",
+  "path": "res/emoji/[月亮]@2x.png"
+}, {
+  "name": "棒棒糖",
+  "path": "res/emoji/[棒棒糖]@2x.png"
+}, {
+  "name": "汽车",
+  "path": "res/emoji/[汽车]@2x.png"
+}, {
+  "name": "沙发",
+  "path": "res/emoji/[沙发]@2x.png"
+}, {
+  "name": "流汗",
+  "path": "res/emoji/[流汗]@2x.png"
+}, {
+  "name": "流泪",
+  "path": "res/emoji/[流泪]@2x.png"
+}, {
+  "name": "激动",
+  "path": "res/emoji/[激动]@2x.png"
+}, {
+  "name": "灯泡",
+  "path": "res/emoji/[灯泡]@2x.png"
+}, {
+  "name": "炸弹",
+  "path": "res/emoji/[炸弹]@2x.png"
+}, {
+  "name": "熊猫",
+  "path": "res/emoji/[熊猫]@2x.png"
+}, {
+  "name": "爆筋",
+  "path": "res/emoji/[爆筋]@2x.png"
+}, {
+  "name": "爱你",
+  "path": "res/emoji/[爱你]@2x.png"
+}, {
+  "name": "爱心",
+  "path": "res/emoji/[爱心]@2x.png"
+}, {
+  "name": "爱情",
+  "path": "res/emoji/[爱情]@2x.png"
+}, {
+  "name": "猪头",
+  "path": "res/emoji/[猪头]@2x.png"
+}, {
+  "name": "猫咪",
+  "path": "res/emoji/[猫咪]@2x.png"
+}, {
+  "name": "献吻",
+  "path": "res/emoji/[献吻]@2x.png"
+}, {
+  "name": "玫瑰",
+  "path": "res/emoji/[玫瑰]@2x.png"
+}, {
+  "name": "瓢虫",
+  "path": "res/emoji/[瓢虫]@2x.png"
+}, {
+  "name": "疑问",
+  "path": "res/emoji/[疑问]@2x.png"
+}, {
+  "name": "白眼",
+  "path": "res/emoji/[白眼]@2x.png"
+}, {
+  "name": "皮球",
+  "path": "res/emoji/[皮球]@2x.png"
+}, {
+  "name": "睡觉",
+  "path": "res/emoji/[睡觉]@2x.png"
+}, {
+  "name": "磕头",
+  "path": "res/emoji/[磕头]@2x.png"
+}, {
+  "name": "示爱",
+  "path": "res/emoji/[示爱]@2x.png"
+}, {
+  "name": "礼品袋",
+  "path": "res/emoji/[礼品袋]@2x.png"
+}, {
+  "name": "礼物",
+  "path": "res/emoji/[礼物]@2x.png"
+}, {
+  "name": "篮球",
+  "path": "res/emoji/[篮球]@2x.png"
+}, {
+  "name": "米饭",
+  "path": "res/emoji/[米饭]@2x.png"
+}, {
+  "name": "糗大了",
+  "path": "res/emoji/[糗大了]@2x.png"
+}, {
+  "name": "红双喜",
+  "path": "res/emoji/[红双喜]@2x.png"
+}, {
+  "name": "红灯笼",
+  "path": "res/emoji/[红灯笼]@2x.png"
+}, {
+  "name": "纸巾",
+  "path": "res/emoji/[纸巾]@2x.png"
+}, {
+  "name": "胜利",
+  "path": "res/emoji/[胜利]@2x.png"
+}, {
+  "name": "色",
+  "path": "res/emoji/[色]@2x.png"
+}, {
+  "name": "药",
+  "path": "res/emoji/[药]@2x.png"
+}, {
+  "name": "菜刀",
+  "path": "res/emoji/[菜刀]@2x.png"
+}, {
+  "name": "蛋糕",
+  "path": "res/emoji/[蛋糕]@2x.png"
+}, {
+  "name": "蜡烛",
+  "path": "res/emoji/[蜡烛]@2x.png"
+}, {
+  "name": "街舞",
+  "path": "res/emoji/[街舞]@2x.png"
+}, {
+  "name": "衰",
+  "path": "res/emoji/[衰]@2x.png"
+}, {
+  "name": "西瓜",
+  "path": "res/emoji/[西瓜]@2x.png"
+}, {
+  "name": "调皮",
+  "path": "res/emoji/[调皮]@2x.png"
+}, {
+  "name": "象棋",
+  "path": "res/emoji/[象棋]@2x.png"
+}, {
+  "name": "跳绳",
+  "path": "res/emoji/[跳绳]@2x.png"
+}, {
+  "name": "跳跳",
+  "path": "res/emoji/[跳跳]@2x.png"
+}, {
+  "name": "车厢",
+  "path": "res/emoji/[车厢]@2x.png"
+}, {
+  "name": "转圈",
+  "path": "res/emoji/[转圈]@2x.png"
+}, {
+  "name": "鄙视",
+  "path": "res/emoji/[鄙视]@2x.png"
+}, {
+  "name": "酷",
+  "path": "res/emoji/[酷]@2x.png"
+}, {
+  "name": "钞票",
+  "path": "res/emoji/[钞票]@2x.png"
+}, {
+  "name": "钻戒",
+  "path": "res/emoji/[钻戒]@2x.png"
+}, {
+  "name": "闪电",
+  "path": "res/emoji/[闪电]@2x.png"
+}, {
+  "name": "闭嘴",
+  "path": "res/emoji/[闭嘴]@2x.png"
+}, {
+  "name": "闹钟",
+  "path": "res/emoji/[闹钟]@2x.png"
+}, {
+  "name": "阴险",
+  "path": "res/emoji/[阴险]@2x.png"
+}, {
+  "name": "难过",
+  "path": "res/emoji/[难过]@2x.png"
+}, {
+  "name": "雨伞",
+  "path": "res/emoji/[雨伞]@2x.png"
+}, {
+  "name": "青蛙",
+  "path": "res/emoji/[青蛙]@2x.png"
+}, {
+  "name": "面条",
+  "path": "res/emoji/[面条]@2x.png"
+}, {
+  "name": "鞭炮",
+  "path": "res/emoji/[鞭炮]@2x.png"
+}, {
+  "name": "风车",
+  "path": "res/emoji/[风车]@2x.png"
+}, {
+  "name": "飞吻",
+  "path": "res/emoji/[飞吻]@2x.png"
+}, {
+  "name": "飞机",
+  "path": "res/emoji/[飞机]@2x.png"
+}, {
+  "name": "饥饿",
+  "path": "res/emoji/[饥饿]@2x.png"
+}, {
+  "name": "香蕉",
+  "path": "res/emoji/[香蕉]@2x.png"
+}, {
+  "name": "骷髅",
+  "path": "res/emoji/[骷髅]@2x.png"
+}, {
+  "name": "麦克风",
+  "path": "res/emoji/[麦克风]@2x.png"
+}, {
+  "name": "麻将",
+  "path": "res/emoji/[麻将]@2x.png"
+}, {
+  "name": "鼓掌",
+  "path": "res/emoji/[鼓掌]@2x.png"
+}, {
+  "name": "龇牙",
+  "path": "res/emoji/[龇牙]@2x.png"
+}]

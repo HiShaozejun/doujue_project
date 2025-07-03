@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "57H37QUZ6Z.com.kuaimasupin.m",
+                "paths": ["/weixin/*","/alipay/*"]
+            },
+            {
+                "appID": "57H37QUZ6Z.com.business.employment.ios",
+                "paths": ["/djsp/*"]
+            }
+        ]
+    }
+}

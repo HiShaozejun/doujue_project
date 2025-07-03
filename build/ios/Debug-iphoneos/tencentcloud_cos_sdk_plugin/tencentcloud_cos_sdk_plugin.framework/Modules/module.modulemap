@@ -1,0 +1,6 @@
+framework module tencentcloud_cos_sdk_plugin {
+  umbrella header "tencentcloud_cos_sdk_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

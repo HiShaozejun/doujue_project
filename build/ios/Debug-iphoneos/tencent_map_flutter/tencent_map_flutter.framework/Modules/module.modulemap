@@ -1,0 +1,11 @@
+framework module tencent_map_flutter {
+  umbrella header "tencent_map_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module tencent_map_flutter.Swift {
+  header "tencent_map_flutter-Swift.h"
+  requires objc
+}

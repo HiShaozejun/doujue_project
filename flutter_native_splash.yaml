@@ -1,0 +1,48 @@
+#flutter pub run flutter_native_splash:create --path=flutter_native_splash.yaml #指定路径
+#flutter pub run flutter_native_splash:remove #移除闪屏
+
+flutter_native_splash:
+  #color: "#ccffff"
+  background_image: "assets/app/splash.png"   # required参数，两者只能二选一,色值或背景图，后者被拉伸以适应应用大小，默认为白色
+  #image: "assets/app/splash.png"   #闪屏中的图片，仅支持png，且是用于4倍像素密度的大小。
+  #android_12: #android 12的的设置
+  #image: "assets/app/splash.png"
+
+  # 指定图像作为商标在闪屏界面显示，同样为png，仅支持Android和iOS 。
+  #branding: assets/dart.png
+  #branding_dark: assets/dart_dark.png  # 为黑暗模式指定商标图像
+  #branding_mode: bottom  # 放置在界面底部，可使用bottom/bottomRight/bottomLeft,默认值 bottom
+
+  # color_dark/background_image_dark 和 image_dark 用于设备在黑暗模式时设置背景色和图像
+  # 没有指定则会采用普通模式的参数，若指定了image_dark，则必须要指定color_dark或background_image_dark,并遵循二选一
+  #color_dark: "#042a49"
+  #background_image_dark: "assets/dark-background.png"
+  #image_dark: assets/splash-invert.png
+
+  android: true # 指定平台
+  ios: true
+  web: false
+
+  # 闪屏图片位置设定，默认居中，
+  # Android属性值来自于gravity(https://developer.android.com/reference/android/view/Gravity):
+  # bottom/center/center_horizontal/center_vertical/clip_horizontal/clip_vertical 、
+  # end/fill/fill_horizontal/fill_vertical/left/right/start/top
+  # ios属性值来自于UIView.ContentMode (https://developer.apple.com/documentation/uikit/uiview/contentmode)
+  #  scaleToFill 、scaleAspectFit/scaleAspectFill/center/top/bottom 、
+  # left/right/topLeft/topRight/bottomLeft 或  bottomRight
+  android_gravity: center
+  ios_content_mode: center
+
+  # web可为center/contain/stretch/cover
+  #web_image_mode: center
+
+  # 隐藏通知栏使用，默认为false；
+  # 要显示通知栏，在Flutter中添加WidgetsFlutterBinding.ensureInitialized();
+  # SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.bottom, SystemUiOverlay.top]);
+  #fullscreen: true
+
+  # 如果改变了 info.plist 的名字，可以使用 info_plist_files 指定对应的文件名。
+  # 只需移除下面三行前面的 # 字符，不要移除任何空格：
+  #info_plist_files:
+  #  - 'ios/Runner/Info-Debug.plist'
+  #  - 'ios/Runner/Info-Release.plist'
